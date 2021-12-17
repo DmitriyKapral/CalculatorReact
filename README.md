@@ -1,2 +1,2 @@
 # CalculatorReact
-![alt tag](https://sun9-83.userapi.com/impg/PhBuuC4Y_ndxrowQn4yPMmJ-1LO5zATcE4XpHw/YsCNdu6nE0U.jpg?size=828x1792&quality=95&sign=f9e17fd42e441cead9a460875038c2b4&type=album "Калькулятор")​
+![alt tag](https://sun9-48.userapi.com/impg/twrXBcyDLeUcyIFdCR1Sqjif0levkhlM4rZyXA/O5l8YbTMYvg.jpg?size=348x753&quality=96&sign=d754f860b7e809fec1df68dd762d40f2&type=album)​
