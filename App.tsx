@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import InputNumberButton from './containers/InputNumberButton';
+import InputNumberButton from './components/InputNumberButton';
 
 const buttons = [
   ['CLEAR', 'DEL'],
